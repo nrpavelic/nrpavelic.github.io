@@ -1,0 +1,42 @@
+body {
+	background-color: grey;
+	}
+
+footer: {
+	margin-bottom: auto;
+	margin-left: auto;
+    margin-right: auto; 
+    overflow: hidden;
+	}
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	}
+h3 {
+	font-family: 'Oswald', sans-serif;
+	}
+
+th, td {
+	padding: 15px;
+    text-align: center;
+    background-color: white;
+}
+
+p {
+	text-align: justify;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 15px;
+	}
+
+footer {
+	clear: both;
+	font-family: 'Oswald', sans-serif;
+	margin-left: 510px;
+	font-style: italic;
+	margin-top: 20px;
+	}
+
+
+
+  
